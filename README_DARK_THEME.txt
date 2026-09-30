@@ -1,0 +1,1 @@
+Changed the website from the white dental theme to a dark premium dental-clinic theme with deep teal/navy surfaces, aqua highlights, subtle grid, glass panels, and high-contrast typography. No white page background.

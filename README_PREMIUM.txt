@@ -1,0 +1,1 @@
+Premium update: removed cartoon/emoji dental characters. Added a clean, realistic-inspired 3D tooth visual, glassmorphism treatment cards, responsive scroll-driven care journey, soft clinical lighting, and premium white/aqua dental styling.

@@ -1,0 +1,1 @@
+Added an interactive, non-graphic dental-care cartoon scroll section. Scroll through Examination, Cleaning, Cavity Care, Orthodontic Care and Confident Smile; the illustration changes with the active step.

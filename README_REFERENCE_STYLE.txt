@@ -1,0 +1,1 @@
+Added a reference-inspired dental layout while retaining the requested dark premium theme: trust badges, appointment CTA card, expanded 8-service treatment grid, premium cards, and responsive layout. The supplied reference image was used as design inspiration, not as the website background.
